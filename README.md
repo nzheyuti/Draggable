@@ -1,8 +1,8 @@
-Draggable v0.1
+锘緿raggable v0.1
 =========
 
 partial implementation of jQuery UI Draggable widget<br/>
 
 ##UPDATE LOG
-v0.1 实现基本拖拽效果<br/>
+v0.1 瀹炵幇鍩烘湰鎷栨嫿鏁堟灉<br/>
 
